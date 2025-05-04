@@ -40,9 +40,11 @@ Para o levantamento das necessidades, foram realizadas **análises qualitativas*
 
 ## 📸 Prints do Projeto
 ## Usuario
-[sejs](https://github.com/user-attachments/assets/32f5fbb2-4795-4fc3-8303-6dc71beb16a9)
 
-![agendamentocc](https://github.com/user-attachments/assets/08fab05c-1b7f-46bd-b199-12e9368cefcd)
+![sejs](https://github.com/user-attachments/assets/8eba4b6f-db99-4cca-b463-c09d528b1179)
+
+![agendamentocliente](https://github.com/user-attachments/assets/8e40f87f-ebc4-49f4-9d68-097b89148f0e)
+
 
 ![agendas](https://github.com/user-attachments/assets/dc610b5e-09ac-4ebd-9390-2b9550843453)
 

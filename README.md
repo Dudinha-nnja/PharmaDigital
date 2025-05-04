@@ -45,20 +45,19 @@ Para o levantamento das necessidades, foram realizadas **análises qualitativas*
 
 ![agendamentocliente](https://github.com/user-attachments/assets/8e40f87f-ebc4-49f4-9d68-097b89148f0e)
 
-
-![agendas](https://github.com/user-attachments/assets/dc610b5e-09ac-4ebd-9390-2b9550843453)
+![agendas](https://github.com/user-attachments/assets/ba630e9c-107e-44ef-aea7-a390be7927a6)
 
 
 ## Administrador
-![agendamentopagina](https://github.com/user-attachments/assets/504db39f-78ed-4eef-8afd-7d436d68accf)
+![agendamentovacina](https://github.com/user-attachments/assets/0a1b3352-b3f0-4419-9d59-9bbfff06c6ba)
 
-![localiza](https://github.com/user-attachments/assets/30ad0fcf-b2b7-4153-969b-f75108b8ad4a)
+![localiza](https://github.com/user-attachments/assets/edb17f66-7eab-42c5-94b3-dbc12a5bd0a6)
 
-![ADMmedicamentos](https://github.com/user-attachments/assets/dcde7f57-1774-46a0-98e5-4f75f87701f6)
+![agendamentopagina](https://github.com/user-attachments/assets/28886bb8-1b4e-4a28-9e38-e46f24d99518)
+
 
 ## Banco de Dados
-![db pharmadigital](https://github.com/user-attachments/assets/15609375-5491-4489-9bda-46c30d8cc806)
-
+![db pharmadigital](https://github.com/user-attachments/assets/288ef083-47c2-4862-bdc3-3c8d39f252ba)
 
 ---
 

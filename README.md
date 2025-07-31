@@ -2,8 +2,10 @@
 
 O **Pharma Digital** é um sistema desenvolvido para facilitar o gerenciamento da distribuição de medicamentos nas **Farmácias das Unidades Básicas de Saúde (UBS)** do Distrito Federal, com controle de estoque em tempo real.
 
+<h2 align="center">📌 Status do Projeto</h2>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Finalizado-green?style=for-the-badge&logoColor=white" alt="status">
+  <img src="https://img.shields.io/badge/STATUS-FINALIZADO-2ecc71?style=for-the-badge&logo=checkmarx&logoColor=white" alt="status">
 </p>
 
 

@@ -1,6 +1,6 @@
 <br>
 
-<h2 align="center">📌 Status do Projeto</h2>
+<h2 align="center"> Status do Projeto</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/FINALIZADO-007BFF?style=for-the-badge&logo=github&logoColor=white" alt="status do projeto">

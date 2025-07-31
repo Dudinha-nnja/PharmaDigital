@@ -1,7 +1,3 @@
-#  Pharma Digital – Gestão de Medicamentos das Farmácias UBS/DF
-
-O **Pharma Digital** é um sistema desenvolvido para facilitar o gerenciamento da distribuição de medicamentos nas **Farmácias das Unidades Básicas de Saúde (UBS)** do Distrito Federal, com controle de estoque em tempo real.
-
 <br>
 
 <h2 align="center">📌 Status do Projeto</h2>
@@ -11,6 +7,10 @@ O **Pharma Digital** é um sistema desenvolvido para facilitar o gerenciamento d
 </p>
 
 <br>
+
+#  Pharma Digital – Gestão de Medicamentos das Farmácias UBS/DF
+
+O **Pharma Digital** é um sistema desenvolvido para facilitar o gerenciamento da distribuição de medicamentos nas **Farmácias das Unidades Básicas de Saúde (UBS)** do Distrito Federal, com controle de estoque em tempo real.
 
 ---
 

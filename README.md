@@ -1,8 +1,13 @@
+<br>
+
 <h2 align="center">📌 Status do Projeto</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-FINALIZADO-007BFF?style=for-the-badge&logo=checkmarx&logoColor=white" alt="status">
+  <img src="https://img.shields.io/badge/FINALIZADO-007BFF?style=for-the-badge&logo=github&logoColor=white" alt="status do projeto">
 </p>
+
+<br>
+
 
 
 #  Pharma Digital – Gestão de Medicamentos das Farmácias UBS/DF

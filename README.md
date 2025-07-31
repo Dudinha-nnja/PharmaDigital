@@ -2,6 +2,11 @@
 
 O **Pharma Digital** é um sistema desenvolvido para facilitar o gerenciamento da distribuição de medicamentos nas **Farmácias das Unidades Básicas de Saúde (UBS)** do Distrito Federal, com controle de estoque em tempo real.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Finalizado-green?style=for-the-badge&logoColor=white" alt="status">
+</p>
+
+
 ---
 
 ##  Sobre o Projeto
@@ -21,7 +26,7 @@ A ferramenta permite ao usuário realizar uma **consulta prévia** da disponibil
 
 ---
 
-## 🔍 Metodologia
+##  Metodologia
 
 Para o levantamento das necessidades, foram realizadas **análises qualitativas**, com observações sobre o comportamento dos usuários e o impacto do sistema de medicamentos na população. Considerou-se a **capilaridade do serviço** e a importância de um atendimento eficaz.
 
@@ -38,7 +43,7 @@ Para o levantamento das necessidades, foram realizadas **análises qualitativas*
 
 ---
 
-## 📸 Prints do Projeto
+##  Prints do Projeto
 ## Usuario
 
 ![sejs](https://github.com/user-attachments/assets/8eba4b6f-db99-4cca-b463-c09d528b1179)
@@ -62,7 +67,7 @@ Para o levantamento das necessidades, foram realizadas **análises qualitativas*
 ---
 
 
-## 👩‍💻 Autoria
+##  Autoria
 
 Desenvolvido por [Eduarda Rodrigues Oliveira](https://github.com/Dudinha-nnja)  
 Projeto de TCC – Curso Técnico em Informática  

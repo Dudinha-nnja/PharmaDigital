@@ -4,10 +4,11 @@ O **Pharma Digital** é um sistema desenvolvido para facilitar o gerenciamento d
 
 <h2 align="center">📌 Status do Projeto</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-FINALIZADO-2ecc71?style=for-the-badge&logo=checkmarx&logoColor=white" alt="status">
-</p>
+<h2 align="center">📌 Status do Projeto</h2>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-FINALIZADO-007BFF?style=for-the-badge&logo=checkmarx&logoColor=white" alt="status">
+</p>
 
 ---
 
